@@ -1,0 +1,4 @@
+
+function awda(params: number) {
+
+}
